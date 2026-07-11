@@ -2,7 +2,7 @@
 
 ## Description
 
-STM32 Hệ thống khí nén HCMUTE sử dụng thư viện HAL
+STM32F103VCT6 Hệ thống khí nén HCMUTE sử dụng thư viện HAL
 
 ## Features
 
